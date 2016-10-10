@@ -13,7 +13,7 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>mvc-dispatcher</servlet-name>
-		<url-pattern>/rest/*</url-pattern>
+		<url-pattern>/api/*</url-pattern>
 	</servlet-mapping>
 
 	<context-param>
